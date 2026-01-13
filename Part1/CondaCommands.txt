@@ -1,0 +1,14 @@
+conda is defined as an package and env. management system
+
+conda -> show all packages
+
+conda deactivate -> is used to deactivate the current environment
+
+conda env list -> show all created environment , 
+                * astrisk denote the active env and default env is base
+
+conda env remove -n <envName> -> is used to delete the environment but take care that you are in another environment then delete specific env
+
+conda create -n <envName/PrimeEnv> -> is used to create an environment 
+
+conda list -> is used to show all or list all packages
