@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_complete_guide",
+  "version": "1.0.0",
+  "description": "A complete Node.js tutorial",
+  "homepage": "https://github.com/Mohit-72in/Node_Fundamentals#readme",
+  "bugs": {
+    "url": "https://github.com/Mohit-72in/Node_Fundamentals/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-72in/Node_Fundamentals.git"
+  },
+  "license": "ISC",
+  "author": "Mohit_Yadav",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon part2/app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
